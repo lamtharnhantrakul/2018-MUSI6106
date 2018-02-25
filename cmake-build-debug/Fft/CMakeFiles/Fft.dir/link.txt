@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../lib/debug/libFft.a  CMakeFiles/Fft.dir/Fft.cpp.o CMakeFiles/Fft.dir/__/__/3rdParty/Fft/rvfft.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../lib/debug/libFft.a
